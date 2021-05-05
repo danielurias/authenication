@@ -1,4 +1,4 @@
-#Authenication & Authorization
+# Authenication & Authorization
 
 This web app uses the passport library to handle authenication and authorization of
 users when they sign upor log into the web app. the bcrypt library is also used to 
