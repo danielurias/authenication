@@ -1,3 +1,12 @@
+#Authenication & Authorization
+
+This web app uses the passport library to handle authenication and authorization of
+users when they sign upor log into the web app. the bcrypt library is also used to 
+hash passwords and keep them secure in the MonngoDB database. Once logged in users 
+can keep track and manage thier own calories.
+
+![](public/auth.png)
+
 ## Resource
 
 **Intake**
